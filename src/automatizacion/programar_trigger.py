@@ -19,6 +19,7 @@ from utils.common import Marshmallow, db
 from datetime import datetime
 import jwt
 
+print("Hola Mundo")
 programar_trigger = Blueprint('programar_trigger', __name__)
 
 # Crear la tabla cuenta si no existe

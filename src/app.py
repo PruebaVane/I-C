@@ -166,5 +166,3 @@ if __name__ == "__main__":
         time.sleep(1)
         
 print("Hola Mundo!!!")
-print("Hellow people!!!!!!!!!!!!!!!!!***********************")
-print("Ultimo intento por hoy")
