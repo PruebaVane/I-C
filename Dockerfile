@@ -1,6 +1,6 @@
 FROM python:3.9.4
 
-WORKDIR /app
+WORKDIR /src
 
 # Copiar el resto de los archivos
 COPY src/requirements.txt .
